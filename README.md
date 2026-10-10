@@ -21,8 +21,8 @@ Me gusta mucho aprender.
 ---
 
 ## Áreas de Interés:
-- **Inferencia Causal & Econometría Aplicada.**
-- **Teoría de Juegos & Microeconomía.** 
-- **Machine Learning Económico.** 
+- **Econometría Aplicada.**
+- **Teoría de Juegos & Información.** 
+- **Machine Learning aplicado a Economía.** 
 
 ---
